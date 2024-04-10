@@ -1,3 +1,6 @@
 
 /calendar/node_modules
 /calendar-backend/node_modules
+
+/calendar-backend/.env
+/calendar/.env
