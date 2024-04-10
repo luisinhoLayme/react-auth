@@ -1,7 +1,5 @@
-
+/calendar/.env
+/calendar/dist
+/calendar-backend/.env
 /calendar/node_modules
 /calendar-backend/node_modules
-
-/calendar/.env
-/calendar-backend/.env
-.env
